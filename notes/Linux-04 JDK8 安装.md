@@ -110,7 +110,7 @@ export PATH=$PATH:$JAVA_HOME/bin
 #保存退出后记得source
 source /etc/profile
 ~~~
-
+重启xshell窗口，让环境变量生效
 - 方式二：
 
 
@@ -125,7 +125,7 @@ export PATH JAVA_HOME
 #保存退出后记得source
 source /etc/profile
 ~~~
-
+重启xshell窗口，让环境变量生效
 
 
 ### 四、测试JDK是否安装成功
