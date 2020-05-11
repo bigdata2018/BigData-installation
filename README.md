@@ -1,6 +1,6 @@
 # 大数据相关软件安装集合
 <nav>
-<a href="#一、Linux基本安装">一、Linux基本安装</a><br/>
+<a href="https://github.com/bigdata2018/BigData-installation/blob/master/README.md#%E4%B8%80linux%E5%9F%BA%E6%9C%AC%E5%AE%89%E8%A3%85">一、Linux基本安装</a><br/>
 <a href="#二、Hadoop相关安装">二、Hadoop相关安装</a><br/>
 <a href="#三、Spark相关安装">三、Spark相关安装</a><br/>
 <a href="#四、Flink相关安装">四、Flink相关安装</a><br/>
