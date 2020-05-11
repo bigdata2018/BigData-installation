@@ -42,7 +42,7 @@ java-1.7.0-openjdk-headless-1.7.0.171-2.6.13.2.el7.x86_64
 
 ```shell
 #卸载现有JDK（3台节点）
-[atguigu@hadoop102 opt] sudo rpm -qa | grep -i java | xargs -n1 sudo rpm -e --nodeps
+[nogc@hadoop102 opt] sudo rpm -qa | grep -i java | xargs -n1 sudo rpm -e --nodeps
 ```
 
 
